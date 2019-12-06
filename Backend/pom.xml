@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>dat.sem3.security</groupId>
-    <artifactId>Backend</artifactId>
+    <artifactId>F2W1fri</artifactId>
     <version>1</version>
     <packaging>war</packaging>
 
-    <name>Backend</name>
+    <name>F2W1fri</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
